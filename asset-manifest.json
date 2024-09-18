@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AddEmployee-CRUD-React/static/css/main.b2c6b841.css",
+    "main.js": "/AddEmployee-CRUD-React/static/js/main.f3376ec9.js",
+    "static/media/pexels-fauxels-3184360.jpg": "/AddEmployee-CRUD-React/static/media/pexels-fauxels-3184360.15276869d2e10e38d91b.jpg",
+    "static/media/logo.jpg": "/AddEmployee-CRUD-React/static/media/logo.b2a9ec75f9e999503839.jpg",
+    "index.html": "/AddEmployee-CRUD-React/index.html",
+    "main.b2c6b841.css.map": "/AddEmployee-CRUD-React/static/css/main.b2c6b841.css.map",
+    "main.f3376ec9.js.map": "/AddEmployee-CRUD-React/static/js/main.f3376ec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2c6b841.css",
+    "static/js/main.f3376ec9.js"
+  ]
+}
