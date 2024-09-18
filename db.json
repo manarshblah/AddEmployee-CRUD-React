@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": "6aee",
+      "name": "manar",
+      "email": "m@gmail.com",
+      "phone": "+136647852155",
+      "isactive": true
+    },
+    {
+      "id": "124d",
+      "name": "manar shblah",
+      "email": "manarshblah@gmail.com",
+      "phone": "+12542365",
+      "isactive": true
+    },
+    {
+      "id": "c058",
+      "name": "hadi",
+      "email": "hadishbalh@gmail.com",
+      "phone": "8527416",
+      "isactive": true
+    }
+  ]
+}

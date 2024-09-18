@@ -1,0 +1,153 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body{
+  text-align: center;
+  background-color: rgba(165, 42, 42, 0.061);
+  font-family: "Playwrite Cuba";
+}
+.navbar{
+  background-color: #7127274d!important;
+  color: white!important;
+  box-shadow: 8px 8px 20px 0px rgba(165, 42, 42, 0.389);
+  height: 80px;
+  margin: 10px;
+  border-radius: 15px;
+}
+h1{
+  margin-top: 10px;
+}
+.btn{
+margin-right: 5px;
+}
+.btn-Add{
+  float: left;
+  margin-bottom: 10px;
+  background-color: #8f6d6d;
+  color: white;
+}
+/* create employee */
+.form-group label, .form-check{
+margin:10px;
+}
+/* end create employee */
+.listing-item{
+  width: 100%!important;
+  justify-content: center;
+}
+.ul-item{
+  width: 100%;
+  text-align: center;
+  display: contents;
+}
+.ul-item li{
+  padding: 0px 40px 0px 0px;
+}
+.img{
+  background-image: url(./images/pexels-fauxels-3184360.jpg);
+  background-position: center;
+  background-size: cover;
+  color: black;
+  border-radius:15px;
+  width: 96%;
+  position: absolute;
+  height: 500px;
+}
+.text-section{  
+  background-color: black;
+  position: absolute;
+  border-radius:15px;
+  width: 96%;
+  height: 500px;
+  opacity: .2;
+}
+.text-section2{
+  color: white;
+  padding-left: 20px;
+  border-radius:15px;
+  padding-top: 10%;
+  position: absolute;
+  z-index: 2;
+    
+}
+.item{
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+.item:hover{
+  color: brown;
+}
+.list{
+  margin-right: 10rem;
+}
+@media(max-width:975px){
+ .list{
+  margin-right: 0px!important;
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #d0b4b4;
+  z-index: 999;
+  border-radius: 10px;
+ }
+ .list ul li{
+  margin-bottom:20px;
+  padding-bottom : 10px;
+}
+.list ul li:hover{
+  border-bottom : 1px solid brown;
+}
+ .item{
+  margin-bottom: 10px;
+  padding: 10px;
+  margin-right: 0px!important;
+ }
+ .text-logo{
+  width: auto!important;
+  margin-top: 0px!important;
+ }
+}
+.logo{
+  width: 60px;
+  border-radius: 10px;
+}
+.text-logo{
+  margin-top: 10px;
+  width: 500px;
+}
+/* section two */
+.section-two{
+  margin-top: 700px;
+}
+.card1{
+  display: inline-block;
+  border: 1px solid #d0b4b4;
+  padding: 40px 0px  40px 0px;
+  height: 390px;
+}
+.icon{
+  color:#c79f9f;
+  font-size: 40px;
+}
+.card-title{
+  color:#8f6d6d
+}
+/* end section two */
+/* footer */
+.footer{
+  padding: 30px;
+  background-color: #8f6d6d;
+  color: #f0dcdc;
+  margin-top: 150px;
+}
+/* Listing */
+.card{
+  margin-top: 50px;
+}
+/* create */
+.card-title1{
+  margin: 20px 0px 0px 20px;
+  
+  color:#8f6d6d
+}
