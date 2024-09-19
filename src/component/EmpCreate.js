@@ -22,7 +22,7 @@ function EmpCreate() {
         })
         .then(res => {
             alert("Saved successfully..!")
-            navigate('/')
+            navigate('/employee/listing')
         })
         .catch(err => console.log("err",err.message))
     }

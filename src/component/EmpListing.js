@@ -41,7 +41,7 @@ const EmpListing = () => {
                 </div>
                 <div className='card-body'>
                     <div>
-                        <Link to="employee/create" className="btn-Add btn  ">Add New (+)</Link>
+                        <Link to="/employee/create" className="btn-Add btn  ">Add New (+)</Link>
                     </div>
                     <table className='table table-bordered'>
                         <thead className='bg-dark text-white'>
